@@ -1,5 +1,5 @@
 ---
-title メモ帳、タスク管理一括管理webアプリ
+title: メモ帳、タスク管理一括管理webアプリ
 tags: java jsp MySQL
 
 # はじめに
